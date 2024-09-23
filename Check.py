@@ -1,4 +1,5 @@
 #ATTENDANCE CHECKER PROGRAM
+#RUN Check.py as ADMINISTRATOR
 import os
 from fuzzywuzzy import fuzz
 
